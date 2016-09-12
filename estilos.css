@@ -1,0 +1,249 @@
+.hombre{background:url('indexbanner-bg3.jpg'); 	
+width: 100%;
+height: 500px;
+background-size:cover;
+color: white;
+
+}
+
+.menu ul a {
+	list-style: none;
+text-align: right;
+color: gray;
+text-decoration: none;
+float: right;
+height: 50px;
+margin-left:30px;
+
+
+
+
+}
+.texto-negro{color: black;
+
+}
+
+.logo-menu{
+	float: left;
+}
+
+.menu{
+	height: 80px;
+	width: 960px;
+	margin:0 auto;
+}
+
+.texto-1{
+	margin-left: 33%;
+	padding-top: 200px;
+width: 200px;
+
+}
+
+.formulario-buscar{
+	width:80%;
+	margin: 0 auto;
+
+
+
+}
+
+.listado-iconos{
+height:100px;
+margin-top: 100px;
+margin-bottom: 150px;
+
+}
+
+.texto{
+	width:66%; 
+		height: 80px;
+}
+
+.buscar{
+	width:33%;
+		height: 80px;
+		background-color: #57c8f4;
+}
+
+.iconos{
+	float:left;
+	width: 25%; 
+	list-style: none;
+
+}
+
+
+.iconos-centro{
+	list-style: none;
+}
+
+
+.titulo-celular{
+ text-align: center;
+ margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.columna-izquierda{
+
+	width: 33%;
+	float: left;
+	text-align: right;
+
+
+}
+
+
+.imagen-celular{
+	width: 33%;
+	float: left;
+
+
+text-align: center;
+}
+
+.columna-derecha{
+
+	width: 33%;
+	float: left;
+	
+}
+
+.titulo-precios{
+text-align: center;
+margin-top: 500px;
+margin-bottom: 50px;
+background:url('pricing-bg.jpg'); 	
+width: 100%;
+height: 500px;
+background-size:cover;
+color: black;
+padding-top: 180px;
+
+}
+
+
+.fondo-precios{
+	margin-top: -180px;
+
+}
+
+.seccion-celular{
+height: 300px;
+
+	}
+
+
+.columna{
+float:left;
+width: 20%;
+background-color: white;
+	border: 1px solid gray;
+	margin-top: -150px;
+	margin-left: 25px;
+	margin-right: 25px;s
+	text-align:center;
+	height: 400px;
+	margin-top: -250px;
+
+}
+
+.columna ul li {
+	list-style: none;
+	display: inline;
+
+
+
+}
+
+.columna .precio {
+	font-size: 20px;
+	font-weight: bold;
+
+
+
+
+}
+
+.signo-pesos{
+	font-size: 10px;
+	position: relative;top:-5px;
+
+}
+
+.centavos{
+	font-size: 10px;
+	position: relative;top:-5px;
+
+}
+
+
+.pie-azul{
+background-color: #142e3f;
+margin-top: 300px;
+width: 100%;
+height: 200px
+
+
+
+}
+.texto-pie{
+text-align:center;
+
+}
+
+.cifra{
+	color: #57c8f4;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+.letra-pie{
+	color: white;
+	
+
+}
+
+.texto-icono{
+	float: right;
+	width: 75%;
+}
+
+
+.icono{
+	float:right;
+	width: 25%;
+
+
+
+}
+
+.columna-derecha .icono, .columna-derecha .texto-icono{
+	float: left;
+}
+
+
+.boton-final{
+	width: 160px;
+	height: 30px;
+	background-color:#57c8f4;
+	margin:0 auto;
+
+}
+
+.boton-bajo{ 
+text-decoration: none; 
+
+}
+
+
+.numero-numero{
+	float:right;
+
+}
+
+.fondo-precios ul li{
+margin-bottom: 80px;
+}
